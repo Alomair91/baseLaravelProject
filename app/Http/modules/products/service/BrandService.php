@@ -5,7 +5,6 @@ namespace App\Http\modules\products\service;
 
 use App\Http\modules\base\service\BaseApiService;
 use App\Http\modules\products\repository\BrandRepository;
-use Illuminate\Http\JsonResponse;
 
 class BrandService extends BaseApiService
 {

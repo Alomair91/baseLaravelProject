@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Common\util;
+namespace App\Http\common\util;
 
 use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Support\Facades\Auth;

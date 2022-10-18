@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Common\db;
+namespace App\Http\common\db;
 
 trait DBUtil
 {

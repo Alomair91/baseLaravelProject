@@ -5,7 +5,6 @@ namespace App\Http\modules\products\service;
 
 use App\Http\modules\base\service\BaseApiService;
 use App\Http\modules\products\repository\ProductRepository;
-use Illuminate\Http\JsonResponse;
 
 class ProductService extends BaseApiService
 {

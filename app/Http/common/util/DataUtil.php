@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Common\util;
+namespace App\Http\common\util;
 
 trait DataUtil
 {

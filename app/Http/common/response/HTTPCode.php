@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Http\Common\response;
+namespace App\Http\common\response;
 
 class HTTPCode{
     const Success = 200;

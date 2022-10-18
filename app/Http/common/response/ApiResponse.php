@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Http\Common\response;
+namespace App\Http\common\response;
 
 use Illuminate\Http\JsonResponse;
 use function trans;
 
 trait ApiResponse
 {
-    use \App\Http\Common\response\Response;
+    use Response;
 
 
     // Message =========================================================================================================
